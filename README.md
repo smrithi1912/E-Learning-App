@@ -10,13 +10,22 @@ Our website is intended to be a source of education where the instructors are se
 ## Components
 
 Login page – separate login for users and admin
-Register Page - User enters his name, email, and password (Also implemented Mailable library of Laravel for sending automatic mails to newly registered users and used mews/captcha library to produce image captcha verification)
+
+Register Page - User enters his name, email, and password (Also implemented Mailable library of Laravel for sending automatic mails to newly registered users and used 
+mews/captcha library to produce image captcha verification)
+
 Main product page - contains the list of all courses
+
 Detail page for each course
+
 Cart page 
+
 Search functionality for courses
+
 Checkout page – displays the total price of all the courses in cart
+
 Orders page – contains the list of all your orders
+
 Admin Page – here the admin can add, edit and delete courses
 
 ## Features
