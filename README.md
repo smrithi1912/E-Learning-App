@@ -29,15 +29,25 @@ Orders page – contains the list of all your orders
 Admin Page – here the admin can add, edit and delete courses
 
 ## Features
+
 User
+
 View courses
+
 Search for courses
+
 Enroll in courses
+
 Watch videos from courses
+
 Provide a rating between 1-5 stars
 
+
 Admin
+
 Upload courses
+
 Edit courses
+
 Delete courses
 
