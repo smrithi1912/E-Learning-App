@@ -30,7 +30,7 @@ Admin Page – here the admin can add, edit and delete courses
 
 ## Features
 
-User
+--User
 
 View courses
 
@@ -42,8 +42,7 @@ Watch videos from courses
 
 Provide a rating between 1-5 stars
 
-
-Admin
+--Admin
 
 Upload courses
 
