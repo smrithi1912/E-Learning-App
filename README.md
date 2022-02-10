@@ -30,23 +30,23 @@ Admin Page – here the admin can add, edit and delete courses
 
 ## Features
 
---User
+User
 
-View courses
+-View courses
 
-Search for courses
+-Search for courses
 
-Enroll in courses
+-Enroll in courses
 
-Watch videos from courses
+-Watch videos from courses
 
-Provide a rating between 1-5 stars
+-Provide a rating between 1-5 stars
 
---Admin
+Admin
 
-Upload courses
+-Upload courses
 
-Edit courses
+-Edit courses
 
-Delete courses
+-Delete courses
 
